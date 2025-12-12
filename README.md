@@ -5,7 +5,7 @@ This is a data-driven visualisation that combines colours with emotions and soun
 This project diplays 100 days worth data onto a circular layout.
 Where each spinners-bar represents a single day with
 - Color -->the primary emotions of the day
-- Length -->the emotion intensity on a range of (1-10, where 1=lowest and 10=highest)
+- Length -->the emotion intensity on a range of (1-10, where 1 = lowest and 10 = highest)
 - Vibration -->noises based motions
 - Hovering and Pinning -->user can hover over the bar and there would be a tooltip that is visualised by the user and if the user clicks it, they can pin it.
 
